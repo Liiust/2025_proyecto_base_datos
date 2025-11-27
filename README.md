@@ -1,7 +1,7 @@
 # 2025_proyecto_base_datos
 Comparación de la evolución del uso del suelo en París entre 2015 y 2025 con los planes de planificación urbana de la ciudad con SQL (pgAdmin 4).
 
-Para descargar el backup con la base de datos : https://drive.google.com/file/d/13Iv_HqeDPQicFEBiWK6S8pAEiZ7Kc7Ag/view?usp=sharing 
+Para descargar el backup con la base de datos : https://upm365-my.sharepoint.com/:u:/g/personal/daniel_ortuno_alumnos_upm_es/ERHWrqjPNIxEoDc86VFe19UBClifBrG28CWWj_I4ipTm1Q?e=aW0Bgr  
 
 Utilizando PostGIS, junto con las más extensiones compatibles con PostgreSQL, desarrollamos un proyecto de análisis de datos geoespaciales dirigido por preguntas de interés (por ejemplo, para el análisis exploratorio), objetivos (por ejemplo, creación de mapas temáticos a partir de ráster) e interpretación de los resultados.
 
