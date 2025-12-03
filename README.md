@@ -10,7 +10,7 @@ Descargar el archivo que hay en el drive de Daniel Ortuño(es un archivo backup)
   5.Le das a restaurar y deberia estar cargando un tiempo(es posible que hasta 400 segundos)
   6.Tendras nuestra base de dtos cargada tal cual trabajamos con ella. Este método funciona y lo hemos probado en 4 ordenadores distintos.
 
-## INFORMACION DEL PROYECTO:
+## INFORMACIÓN DEL PROYECTO:
 Comparación de la evolución del uso del suelo en París entre 2015 y 2025 con los planes de planificación urbana de la ciudad con SQL (pgAdmin 4).
 
 Para descargar el backup con la base de datos : https://upm365-my.sharepoint.com/:u:/g/personal/daniel_ortuno_alumnos_upm_es/ERHWrqjPNIxEoDc86VFe19UBClifBrG28CWWj_I4ipTm1Q?e=aW0Bgr  
