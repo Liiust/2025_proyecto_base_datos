@@ -4,7 +4,7 @@
 
 Descargar el archivo que hay en el drive de Daniel Ortuño(es un archivo backup),este archivo se tiene que cargar en el pg admin de la siguiente forma:
 
-  1.Creas una base de datos nueva(no la llames un nombre con ñ) y no crages ninguna extension(postgis,TOPOLOGY...),el bachup ya las tiene incluidas.
+  1.Creas una base de datos nueva (no la llames un nombre con ñ) y no carges ninguna extension(postgis,TOPOLOGY...), el back-up ya las tiene incluidas.
   
   2.le das click derecho en la base de datos y le das a "Restore...","Restaurar..." o lo equivalente en otro idioma.
   
@@ -12,9 +12,9 @@ Descargar el archivo que hay en el drive de Daniel Ortuño(es un archivo backup)
   
   4.El formato usa "Custom o Tar"
   
-  5.Le das a restaurar y deberia estar cargando un tiempo(es posible que hasta 400 segundos)
+  5.Le das a restaurar y deberia estar cargando un tiempo (es posible que hasta 400 segundos o más...)
   
-  6.Tendras nuestra base de dtos cargada tal cual trabajamos con ella. Este método funciona y lo hemos probado en 4 ordenadores distintos.
+  6.Tendras nuestra base de datos cargada tal cual trabajamos con ella. Este método funciona y lo hemos probado en 4 ordenadores distintos.
   
 
 ## INFORMACIÓN DEL PROYECTO:
