@@ -1,6 +1,6 @@
 # 2025_proyecto_base_datos
 
-# Title (H1)**IMPORTANTE,Carga de la base de datos**
+##**IMPORTANTE,Carga de la base de datos**
 
 Descargar el archivo que hay en el drive de Daniel Ortuño(es un archivo backup),este archivo se tiene que cargar en el pg admin de la siguiente forma:
   1.Creas una base de datos nueva(no la llames un nombre con ñ) y no crages ninguna extension(postgis,TOPOLOGY...),el bachup ya las tiene incluidas.
