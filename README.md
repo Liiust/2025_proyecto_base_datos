@@ -3,12 +3,19 @@
 ## **MUY IMPORTANTE,Carga de la base de datos**
 
 Descargar el archivo que hay en el drive de Daniel Ortuño(es un archivo backup),este archivo se tiene que cargar en el pg admin de la siguiente forma:
+
   1.Creas una base de datos nueva(no la llames un nombre con ñ) y no crages ninguna extension(postgis,TOPOLOGY...),el bachup ya las tiene incluidas.
+  
   2.le das click derecho en la base de datos y le das a "Restore...","Restaurar..." o lo equivalente en otro idioma.
+  
   3.Te sale una ventana en la que te pide el archivo, aqui pones el backup que te has descargado
+  
   4.El formato usa "Custom o Tar"
+  
   5.Le das a restaurar y deberia estar cargando un tiempo(es posible que hasta 400 segundos)
+  
   6.Tendras nuestra base de dtos cargada tal cual trabajamos con ella. Este método funciona y lo hemos probado en 4 ordenadores distintos.
+  
 
 ## INFORMACIÓN DEL PROYECTO:
 Comparación de la evolución del uso del suelo en París entre 2015 y 2025 con los planes de planificación urbana de la ciudad con SQL (pgAdmin 4).
